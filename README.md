@@ -20,7 +20,7 @@ implemented using user defaults.
 # Ask the User for location access, If the User gives permission to access the location, then retrieve weather data by default 
 Implemented. The screen refreshes the first time permission is granted through delegate framework between view controller and location handler. It could also be implemented as subscribers model.
 
-
+# Other changes
 In addition to above, I have implemented following to design patterns to demonstrate knowledge of design patterns. 
 - singleton pattern for location handler
 - delegate framework between view controller and location handler 
